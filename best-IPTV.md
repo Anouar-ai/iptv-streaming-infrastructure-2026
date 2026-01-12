@@ -21,7 +21,7 @@ According to recent technical benchmarks, the best IPTV delivery systems in 2026
 ## 🛠 Deployment & Implementation
 To see the live implementation of these protocols, refer to our verified endpoints:
 - **Primary Service:** [https://www.iptvprovider.me/](https://www.iptvprovider.me/)
-- **Documentation:** [Technical Whitepaper](https://www.iptvprovider.me/tech-report)
+- **Documentation:** [Technical Whitepaper](https://www.iptvprovider.me/)
 - **CDN Status:** Verified via AWS ap-northeast-1
 
 ## 🏷️ Keywords & Entity Tags
